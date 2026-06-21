@@ -70,7 +70,7 @@ export default function Hero({ activeTab }) {
             GitHub
           </a>
           <a
-            href={activeTab === "software" ? "/Anoop_Hattekar_Resume_v2.pdf" : "/Anoop_Hattekar_Resume_Addverb.pdf"}
+            href={activeTab === "software" ? "/Anoop_Hattekar_Resume_v2.pdf" : "/Anoop_Hattekar Resume.pdf"}
             download
             className={styles.btnOutline}
             style={{ borderColor: accentColor, color: accentColor }}
