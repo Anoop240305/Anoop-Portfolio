@@ -1,0 +1,7 @@
+.summary {
+  font-size: 17px;
+  color: var(--text-secondary);
+  line-height: 1.8;
+  max-width: 750px;
+  margin-bottom: 40px;
+}
